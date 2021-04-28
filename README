@@ -1,8 +1,0 @@
-# README file for CJOR paper
-
-## Prepare R environment
-install.packages("remotes")
-remotes::install_github("rstudio/renv")
-
-## Run analysis
-renv::restore()
